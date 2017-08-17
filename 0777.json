@@ -46,5 +46,13 @@
 		"stars": 0,
 		"distance": 716.06,
 		"suites_availability": "2:87:24:65:26:119:202:6"
-	}
+	},
+	{
+    "id": 13370,
+    "name": "Midtown Lodging",
+    "address": "250 East 50th Street",
+    "stars": 2.0,
+    "distance": 13.10,
+    "suites_availability": "1:"
+  }
 ]
